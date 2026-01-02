@@ -4,4 +4,4 @@ draft = false
 title = 'About'
 +++
 
-Candy, candy, candy, cookie, candy, candy, chocolate
+Baka mitai.

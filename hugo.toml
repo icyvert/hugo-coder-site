@@ -11,6 +11,7 @@ avatarURL = "images/miku.webp"
 faviconsvg = "favicon.svg"
 colorScheme = "dark"
 hideColorSchemeToggle = "true"
+since = 2025
 
 [[params.social]]
 name = "GitHub"
