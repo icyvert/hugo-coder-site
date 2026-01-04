@@ -1,5 +1,4 @@
 +++
-date = '2025-12-29T19:09:51+05:30'
 draft = false
 title = 'Contact'
 +++
