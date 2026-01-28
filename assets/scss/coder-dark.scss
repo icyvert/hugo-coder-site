@@ -1,0 +1,18 @@
+@import "variables";
+@import "base_dark";
+@import "content_dark";
+@import "notices_dark";
+@import "navigation_dark";
+@import "tabs_dark";
+@import "taxonomies_dark";
+@import "footer_dark";
+@import "float_dark";
+@import "syntax_dark";
+
+body {
+    background-image: url("/images/background.webp");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
