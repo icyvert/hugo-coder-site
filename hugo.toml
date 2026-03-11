@@ -18,6 +18,7 @@ icon = "fa-brands fa-github fa-2x"
 weight = 1
 url = "https://github.com/Icyvert"
 target = "_blank"
+rel = "noopener"
 
 [[params.social]]
 name = "Monkeytype"
@@ -25,6 +26,7 @@ icon = "fa-solid fa-keyboard fa-2x"
 weight = 2
 url = "https://monkeytype.com/profile/Icya"
 target = "_blank"
+rel = "noopener"
 
 [[params.social]]
 name = "MyAnimeList"
@@ -32,6 +34,7 @@ icon = "fa-solid fa-book-bookmark fa-2x"
 weight = 3
 url = "https://myanimelist.net/profile/Icya"
 target = "_blank"
+rel = "noopener"
 
 [[params.social]]
 name = "Reddit"
@@ -39,6 +42,7 @@ icon = "fa-brands fa-reddit fa-2x"
 weight = 4
 url = "https://www.reddit.com/user/Icy687"
 target = "_blank"
+rel = "noopener"
 
 [[params.social]]
 name = "Twitter"
@@ -46,6 +50,7 @@ icon = "fa-brands fa-x-twitter fa-2x"
 weight = 5
 url = "https://x.com/Icyvertt"
 target = "_blank"
+rel = "noopener"
 
 [[menu.main]]
 name = "Contact"
