@@ -1,5 +1,12 @@
+@font-face {
+  font-family: 'SpecialElite';
+  src: url('/fonts/SpecialElite-Regular.woff2') format('woff2');
+  font-display: swap;
+}
+
 // Fonts
-$font-family: -apple-system,
+$font-family: SpecialElite,
+-apple-system,
 BlinkMacSystemFont,
 "Segoe UI",
 Roboto,
