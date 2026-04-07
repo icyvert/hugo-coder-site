@@ -1,11 +1,11 @@
 baseURL = 'https://icya.pages.dev/'
 languageCode = 'en-us'
-title = 'Icy'
+title = 'Home'
 theme = 'hugo-coder'
 
 [params]
 author = "Icy"
-description = "An ambitious attempt"
+description = "an ambitious attempt"
 info = ["Fantastic Fantasist", "Student"]
 avatarURL = "/images/avatar.webp"
 faviconsvg = "/favicon.svg"
